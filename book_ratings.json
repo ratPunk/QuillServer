@@ -1,0 +1,31 @@
+[
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4a"}, "rating": 5, "created_at": {"$date": "2024-01-15T10:30:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4a"}, "rating": 5, "created_at": {"$date": "2024-01-16T14:20:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4a"}, "rating": 5, "created_at": {"$date": "2024-01-17T09:15:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4a"}, "rating": 5, "created_at": {"$date": "2024-01-18T11:00:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4a"}, "rating": 5, "created_at": {"$date": "2024-01-19T16:45:00Z"}},
+
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4b"}, "rating": 5, "created_at": {"$date": "2024-01-20T13:10:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4b"}, "rating": 5, "created_at": {"$date": "2024-01-21T15:25:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4b"}, "rating": 5, "created_at": {"$date": "2024-01-22T08:40:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4b"}, "rating": 5, "created_at": {"$date": "2024-01-23T12:55:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4b"}, "rating": 5, "created_at": {"$date": "2024-01-24T17:05:00Z"}},
+
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4c"}, "rating": 5, "created_at": {"$date": "2024-01-25T09:20:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4c"}, "rating": 5, "created_at": {"$date": "2024-01-26T14:30:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4c"}, "rating": 5, "created_at": {"$date": "2024-01-27T11:15:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4c"}, "rating": 5, "created_at": {"$date": "2024-01-28T16:50:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4c"}, "rating": 5, "created_at": {"$date": "2024-01-29T10:05:00Z"}},
+
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4d"}, "rating": 5, "created_at": {"$date": "2024-01-30T13:40:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4d"}, "rating": 5, "created_at": {"$date": "2024-01-31T15:20:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4d"}, "rating": 5, "created_at": {"$date": "2024-02-01T09:10:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4d"}, "rating": 5, "created_at": {"$date": "2024-02-02T14:25:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4d"}, "rating": 5, "created_at": {"$date": "2024-02-03T17:30:00Z"}},
+
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4e"}, "rating": 5, "created_at": {"$date": "2024-02-04T10:15:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4e"}, "rating": 5, "created_at": {"$date": "2024-02-05T12:40:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4e"}, "rating": 5, "created_at": {"$date": "2024-02-06T16:05:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4e"}, "rating": 5, "created_at": {"$date": "2024-02-07T11:50:00Z"}},
+  {"user_id": {"$oid": "69161aba4f8cf842211d3d8b"}, "book_id": {"$oid": "6914c749fd587e8fe471ef4e"}, "rating": 5, "created_at": {"$date": "2024-02-08T14:30:00Z"}}
+]

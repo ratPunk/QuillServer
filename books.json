@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Преступление и наказание",
+    "author": "Фёдор Достоевский",
+    "year": 1866,
+    "file_path": "/books/classic/crime_and_punishment.pdf"
+  },
+  {
+    "name": "Мастер и Маргарита",
+    "author": "Михаил Булгаков",
+    "year": 1967,
+    "file_path": "/books/russian/master_margarita.epub"
+  },
+  {
+    "name": "Война и мир",
+    "author": "Лев Толстой",
+    "year": 1869,
+    "file_path": "/books/classic/war_and_peace.pdf"
+  },
+  {
+    "name": "Евгений Онегин",
+    "author": "Александр Пушкин",
+    "year": 1833,
+    "file_path": "/books/poetry/eugene_onegin.pdf"
+  },
+  {
+    "name": "Отцы и дети",
+    "author": "Иван Тургенев",
+    "year": 1862,
+    "file_path": "/books/classic/fathers_and_sons.mobi"
+  }
+]
